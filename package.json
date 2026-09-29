@@ -1,6 +1,6 @@
 {
   "name": "@stackline/is-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a value is \"empty\".",
   "repository": {
     "type": "git",
@@ -16,6 +16,9 @@
     "mocha": "12.0.2"
   },
   "keywords": [
+    "stackline",
+    "npm-package",
+    "is-empty",
     "array",
     "check",
     "empty",
@@ -25,13 +28,12 @@
     "object",
     "set",
     "value",
-    "stackline",
     "maintenance-fork"
   ],
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-is-empty/issues"
   },
-  "homepage": "https://github.com/alexandroit/stackline-is-empty#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/is-empty/",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
