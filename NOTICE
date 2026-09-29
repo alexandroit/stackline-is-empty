@@ -1,0 +1,5 @@
+This is an independent maintenance fork of is-empty 1.2.0.
+Upstream source commit: 56ac2424f4f15866ae5274e15f5d2b41d38749b5
+The upstream license and author notices are retained unchanged.
+Stackline changes are documented in CHANGELOG.md. No upstream endorsement is implied.
+Upstream declares MIT in package.json and README; this fork includes the standard MIT text with upstream author attribution.
