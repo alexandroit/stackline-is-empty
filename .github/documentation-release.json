@@ -1,0 +1,31 @@
+{
+  "repository": "alexandroit/stackline-is-empty",
+  "packages": [
+    {
+      "name": "@stackline/is-empty",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "is-empty",
+        "array",
+        "check",
+        "empty",
+        "file",
+        "is",
+        "map",
+        "object",
+        "set",
+        "value",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/is-empty/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/is-empty/-/is-empty-1.0.0.tgz",
+      "baselineIntegrity": "sha512-p3JNPEBF41JPIiGURP8AigyjN7SJMRol7k5DmWdVVZbVk4qOojoCc7lP4cBWeXq1PUFChOincfE2DVy5Zvjr8Q==",
+      "expectedSha512": "faaf03e661bf4edd3a1fa826944ddafcc4358faaee979db552564936883294b6b66f687141a85371022b7abcd15e04f1d1d7f1b01b59fc1b151979ba6d6a1cea",
+      "tag": "docs-stackline-is-empty-v1.0.1"
+    }
+  ]
+}
